@@ -1,0 +1,15 @@
+//### Primary
+
+$soft-blue: hsl(215, 51%, 70%);
+$cyan: hsl(178, 100%, 50%);
+
+//### Neutral
+
+$very-dark-blue_BG: hsl(217, 54%, 11%); // BG
+$very-dark-blue_Card: hsl(216, 50%, 16%); // Card
+$very-dark-blue_line: hsl(215, 32%, 27%);
+$white: hsl(0, 0%, 100%);
+
+@import "general";
+@import "card";
+@import "media1440";
